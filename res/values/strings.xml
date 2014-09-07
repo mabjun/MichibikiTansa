@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">みちびき探知機</string>
+    <string name="hello_world">
+準天頂衛星みちびきを常時探知するシンプルなアプリです。\n
+ステータスバーにアイコンが常駐し、みちびきを発見すると、アイコンが変わります。\n
+\n
+[探知を開始]をタップすると、この画面を閉じて、ステータスバーに常駐します。\n
+[探知を終了]をタップすると、ステータスバーの常駐を解除し、この画面も終了します。      
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="prefLocationReceiverEnabledKey">LOCATIONRECEIVERENABLED</string>
+
+    <string name="notifyTitleFound">みちびきを発見！</string>
+    <string name="notifyTitleNotFound">みちびきを探知中</string>
+    
+</resources>
